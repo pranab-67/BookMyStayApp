@@ -26,7 +26,7 @@ class RoomInventory {
     }
 }
 
-public class UseCase3InventorySetup {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
